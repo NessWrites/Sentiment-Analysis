@@ -5,8 +5,7 @@ import sys
 
 #before running the code you have to set up environment variable for twitter bearer_token
 #go to terminal and do the following:
-#export TWITTER_BEARER_TOKEN='AAAAAAAAAAAAAAAAAAAAAMxPvQEAAAAAab9SQ%2F2ohgTOkZfEKQ2%2FYHR32Uk%3D54GrgtgpAb8slon2IfmZ1IjB0g68dVWOCmpH0edWsosYvo3xGZ'
-#echo $TWITTER_BEARER_TOKEN
+
 
 # Load the bearer token from an environment variable
 # Load the bearer token from an environment variable
